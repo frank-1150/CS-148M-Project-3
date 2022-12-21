@@ -5,6 +5,11 @@ The final project for UCLA course CS 148M 2021 Fall. We
 
 2) find 2 key indicators for successful product using Bayes theorem
 
+## Files
+- first discussion.pbix is the PowerBI dashboard we built for analysis
+- CS148 Project 3 Fall21.docx.pdf is the problem statement
+- Report v2.0.pdf is our final report
+
 ## Project background
 
 Cookies was founded in 2012 by Gilbert Anthony Milam Jr., better known by his stage name Berner,and
@@ -34,3 +39,21 @@ We built two features on sales (sales in previous month and rolling average of 3
 We build two metrics to measure how good a certain category of product sales in the market: market share score and out performance score. Market share score shows the empirical probability a certain product that a certain product's sales will rank in the top third of the market. Out performance score shows how much a certain indicator can affect the market share score. After traversing all possible values for all the features given in the dataset, we find that the “Flower” in Category L2 and “Hybrid” in Category L3 is the best sales-prompt indicators. 
 
 This result tells us that picking a growing, less-competitive niche market, is the key to grow revenue in the cannabis industry.
+
+## Some Buisiness intelligence graphs
+ ![image](https://user-images.githubusercontent.com/76094159/208984086-414e468d-7af9-4e91-b318-948bd80ccf67.png)
+
+Total Sales of the whole market rises from 40 million to around 55 million per month.
+
+![image](https://user-images.githubusercontent.com/76094159/208984142-f7810e82-7729-46c1-8a2f-e8bbf6a0afcf.png)
+Comparing the total sales Year-on-Year changes, we can see the strong growth in 2020 and the slowing down in mid-2021.
+
+![image](https://user-images.githubusercontent.com/76094159/208984197-86701147-4a3c-4437-bd4e-faa5e2f91276.png)
+
+![image](https://user-images.githubusercontent.com/76094159/208984215-5b3bc97d-15ab-4dbf-b988-99f03a10abb3.png)
+
+![image](https://user-images.githubusercontent.com/76094159/208984231-0c6fa71a-0b14-46d6-8052-6d5d4cd4987b.png)
+
+![image](https://user-images.githubusercontent.com/76094159/208984030-30f7c527-0acc-4433-8f93-f428c2bb3420.png)
+
+
